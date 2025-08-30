@@ -3,7 +3,9 @@
 
 ## Introducción
 
-El análisis de datos clínicos desempeña un papel fundamental en la detección temprana de riesgos y en la toma de decisiones médicas basadas en evidencia. En este estudio se trabaja con un dataset de cardiotocografía fetal (CTG), técnica ampliamente utilizada en obstetricia para monitorear la salud del feto durante el embarazo y el parto. El conjunto de datos incluye múltiples variables numéricas relacionadas con la frecuencia cardíaca fetal (FHR) y las contracciones uterinas (UC), a partir de las cuales se extraen indicadores que permiten clasificar el estado del feto en tres categorías: Normal, Sospechoso y Patológico (NSP).
+El análisis de datos clínicos es una herramienta clave en la identificación temprana de riesgos y en el soporte a la toma de decisiones médicas. En este trabajo se emplea el dataset de Cardiotocografía Fetal (CTG) disponible en la plataforma Kaggle, el cual reúne registros obtenidos a partir del monitoreo de la frecuencia cardíaca fetal (FHR) y de las contracciones uterinas (UC). Este conjunto de datos ha sido ampliamente utilizado en estudios de investigación debido a su valor para evaluar la condición fetal y clasificarla en tres categorías clínicas: Normal, Sospechoso y Patológico (NSP).
+
+La riqueza de este dataset radica en la variedad de sus variables numéricas, que permiten un análisis detallado mediante técnicas de exploración, correlación y preprocesamiento de datos. En este contexto, el análisis exploratorio facilita la identificación de tendencias, outliers y patrones en los registros; mientras que la depuración de variables irrelevantes y el tratamiento de valores faltantes aseguran una mejor calidad de los datos. Estos pasos son fundamentales para garantizar una base sólida de cara a la aplicación de modelos de aprendizaje automático orientados a la detección de anomalías y predicción de estados de riesgo fetal.
 
 ## 1. Objetivos
    
