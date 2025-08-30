@@ -1,6 +1,5 @@
-# Deteccion-de-anomalias-y-agrupamiento
+# Detección de anomalías y técnicas de agrupamiento
 
-Detección de anomalías y técnicas de agrupamiento
 
 Introducción
 
