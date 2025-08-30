@@ -28,12 +28,15 @@ El dataset corresponde a registros de cardiotocografía fetal (CTG), una técnic
 La CTG mide principalmente:
 
 • Frecuencia cardíaca fetal (FHR).
+
 • Contracciones uterinas (UC).
 
 A partir de estas señales se generan variables numéricas que permiten clasificar el estado fetal en tres categorías, representadas por la variable objetivo NSP:
 
 • Normal (1): sin signos de sufrimiento.
+
 • Sospechoso (2): con irregularidades que requieren observación.
+
 • Patológico (3): con signos claros de sufrimiento.
 
 
