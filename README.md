@@ -21,4 +21,20 @@ La riqueza de este dataset radica en la variedad de sus variables numéricas, qu
 
 En esta sección, se presenta una visión integral de las características estadísticas y estructurales del conjunto de datos de cardiotocografía (CTG). El objetivo es comprender la naturaleza de los datos antes de aplicar cualquier modelo de Machine Learning, identificando la distribución de las variables, la presencia de valores atípicos y las relaciones entre ellas.
 
+Descripción del dataset:
+
+El dataset corresponde a registros de cardiotocografía fetal (CTG), una técnica empleada en obstetricia para monitorear la salud del feto durante el embarazo y el parto.
+
+La CTG mide principalmente:
+
+• Frecuencia cardíaca fetal (FHR).
+• Contracciones uterinas (UC).
+
+A partir de estas señales se generan variables numéricas que permiten clasificar el estado fetal en tres categorías, representadas por la variable objetivo NSP:
+
+• Normal (1): sin signos de sufrimiento.
+• Sospechoso (2): con irregularidades que requieren observación.
+• Patológico (3): con signos claros de sufrimiento.
+
+
 ## 3.  
