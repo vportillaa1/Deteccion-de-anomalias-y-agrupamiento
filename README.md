@@ -17,4 +17,8 @@ La riqueza de este dataset radica en la variedad de sus variables numéricas, qu
 
 ## 2. Desarrollo de la actividad
 
+2.1. EDA - Análisis exploratorio de datos
+
+En esta sección, se presenta una visión integral de las características estadísticas y estructurales del conjunto de datos de cardiotocografía (CTG). El objetivo es comprender la naturaleza de los datos antes de aplicar cualquier modelo de Machine Learning, identificando la distribución de las variables, la presencia de valores atípicos y las relaciones entre ellas.
+
 ## 3.  
