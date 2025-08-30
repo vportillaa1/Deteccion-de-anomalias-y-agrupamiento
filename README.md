@@ -40,4 +40,4 @@ A partir de estas señales se generan variables numéricas que permiten clasific
 - Patológico (3): con signos claros de sufrimiento.
 
 
-## 3.  
+## 3.  s
