@@ -1,7 +1,7 @@
 # Detección de anomalías y técnicas de agrupamiento
 
 
-Introducción
+##Introducción
 
 El análisis de datos clínicos desempeña un papel fundamental en la detección temprana de riesgos y en la toma de decisiones médicas basadas en evidencia. En este estudio se trabaja con un dataset de cardiotocografía fetal (CTG), técnica ampliamente utilizada en obstetricia para monitorear la salud del feto durante el embarazo y el parto. El conjunto de datos incluye múltiples variables numéricas relacionadas con la frecuencia cardíaca fetal (FHR) y las contracciones uterinas (UC), a partir de las cuales se extraen indicadores que permiten clasificar el estado del feto en tres categorías: Normal, Sospechoso y Patológico (NSP).
 
