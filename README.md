@@ -7,6 +7,9 @@ El análisis de datos clínicos es una herramienta clave en la identificación t
 
 La riqueza de este dataset radica en la variedad de sus variables numéricas, que permiten un análisis detallado mediante técnicas de exploración, correlación y preprocesamiento de datos. En este contexto, el análisis exploratorio facilita la identificación de tendencias, outliers y patrones en los registros; mientras que la depuración de variables irrelevantes y el tratamiento de valores faltantes aseguran una mejor calidad de los datos. Estos pasos son fundamentales para garantizar una base sólida de cara a la aplicación de modelos de aprendizaje automático orientados a la detección de anomalías y predicción de estados de riesgo fetal.
 
+![Texto alternativo](imagenes/Cardiotocografía.jpg)
+
+
 ## 1. Objetivos
    
 - Objetivo 1: Realizar un análisis exploratorio de datos (EDA) del dataset de cardiotocografía (CTG), identificando las características estadísticas de las variables numéricas y categóricas, así como las correlaciones existentes entre ellas.
