@@ -43,5 +43,11 @@ A partir de estas señales se generan variables numéricas que permiten clasific
 
 - Patológico (3): con signos claros de sufrimiento.
 
+**Dimensiones del Dataset (Filas y Columnas)**
+
+
+
+**Tipos de Variables**
+
 
 ## 3.  s
