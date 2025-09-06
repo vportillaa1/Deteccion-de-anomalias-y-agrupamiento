@@ -55,4 +55,13 @@ A partir de estas señales se generan variables numéricas que permiten clasific
   <img src="imagenes/tipos-de-variables.jpg" alt="Texto alternativo" width="400">
 </div>
 
+**Estadísticos Descriptivos de Variables Numéricas**
+
+**Exploración preliminar de los datos: primeros 5 y últimos 5 registros**
+
+**Distribución porcentual de la Variable Objetivo (NSP)**
+
+**Gráfico de la distribución de clases la variable NSP**
+
+
 ## 3.  s
