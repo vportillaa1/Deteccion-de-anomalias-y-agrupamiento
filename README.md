@@ -13,19 +13,19 @@ La riqueza de este dataset radica en la variedad de sus variables numéricas, qu
 
 ## 1. Objetivos
    
-- Objetivo 1: Realizar un análisis exploratorio de datos (EDA) del dataset de cardiotocografía (CTG), identificando las características estadísticas de las variables numéricas y categóricas, así como las correlaciones existentes entre ellas.
+- **Objetivo 1:** Realizar un análisis exploratorio de datos (EDA) del dataset de cardiotocografía (CTG), identificando las características estadísticas de las variables numéricas y categóricas, así como las correlaciones existentes entre ellas.
 
-- Objetivo 2: Implementar la técnica de detección de anomalías Local Outlier Factor (LOF) para identificar valores atípicos locales que puedan alterar la estabilidad de futuros modelos de regresión o clasificación.
+- **Objetivo 2:** Implementar la técnica de detección de anomalías Local Outlier Factor (LOF) para identificar valores atípicos locales que puedan alterar la estabilidad de futuros modelos de regresión o clasificación.
 
-- Objetivo 3: Aplicar el algoritmo de agrupamiento OPTICS para segmentar el dataset en clústeres, interpretando los patrones encontrados y evaluando la calidad de la agrupación generada.
+- **Objetivo 3:** Aplicar el algoritmo de agrupamiento OPTICS para segmentar el dataset en clústeres, interpretando los patrones encontrados y evaluando la calidad de la agrupación generada.
 
 ## 2. Desarrollo de la actividad
 
-2.1. EDA - Análisis exploratorio de datos
+**2.1. EDA - Análisis exploratorio de datos**
 
 En esta sección, se presenta una visión integral de las características estadísticas y estructurales del conjunto de datos de cardiotocografía (CTG). El objetivo es comprender la naturaleza de los datos antes de aplicar cualquier modelo de Machine Learning, identificando la distribución de las variables, la presencia de valores atípicos y las relaciones entre ellas.
 
-Descripción del dataset:
+**Descripción del dataset:**
 
 El dataset corresponde a registros de cardiotocografía fetal (CTG), una técnica empleada en obstetricia para monitorear la salud del feto durante el embarazo y el parto.
 
