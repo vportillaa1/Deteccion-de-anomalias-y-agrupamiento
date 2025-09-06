@@ -9,6 +9,9 @@ La riqueza de este dataset radica en la variedad de sus variables numéricas, qu
 
 <div align="center">![Texto alternativo](imagenes/Cardiotocografía.jpg)</div>
 
+<div align="center">
+  <img src="imagenes/Cardiotocografía.jpg" alt="Texto alternativo" width="400">
+</div>
 
 ## 1. Objetivos
    
