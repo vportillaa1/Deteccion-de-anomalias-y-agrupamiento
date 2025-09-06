@@ -45,9 +45,14 @@ A partir de estas señales se generan variables numéricas que permiten clasific
 
 **Dimensiones del Dataset (Filas y Columnas)**
 
-
+<div align="left">
+  <img src="imagenes/registros-y-columnas.jpg" alt="Texto alternativo" width="400">
+</div>
 
 **Tipos de Variables**
 
+<div align="left">
+  <img src="imagenes/tipos-de-variables.jpg" alt="Texto alternativo" width="400">
+</div>
 
 ## 3.  s
